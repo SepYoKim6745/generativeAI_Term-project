@@ -17,7 +17,7 @@
 
 ### 다운로드 및 설정 방법
 
-1. [Google Drive 링크](https://drive.google.com/your_dataset_link)를 통해 데이터셋을 다운로드합니다.
+1. [Google Drive 링크](https://drive.google.com/drive/folders/1XCQ6g-mSs5FrXVwNR7FnuQrYbdceOp9d?usp=drive_link)를 통해 데이터셋을 다운로드합니다.
 2. 다운로드 후, 아래와 같은 디렉터리 구조로 데이터를 정리합니다
 
 ### 데이터셋 디렉터리 구조
