@@ -121,7 +121,9 @@ CycleGAN의 성능을 정량적으로 평가하기 위해 다음 지표를 사�
     - 값이 높을수록 더 유사.
 
 ---
-
+## 실험 과정
+[실험 결과 보기](docs/docs_experiment_results.md)
+---
 ## 참고자료
 - [CycleGAN 논문](https://arxiv.org/abs/1703.10593)
 - [AIHUB 데이터셋 페이지](https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=data&dataSetSn=71626)
