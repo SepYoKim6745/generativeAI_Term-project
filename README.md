@@ -122,7 +122,7 @@ CycleGAN의 성능을 정량적으로 평가하기 위해 다음 지표를 사�
 
 ---
 ## 실험 과정
-[실험 결과 보기](docs/docs_experiment_results.md)
+- [실험 결과 보기](https://github.com/SepYoKim6745/generativeAI_Term-project/tree/main/docs_experiment_results)
 ---
 ## 참고자료
 - [CycleGAN 논문](https://arxiv.org/abs/1703.10593)
