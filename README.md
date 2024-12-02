@@ -87,7 +87,7 @@ python train.py \
 
 | 맑은 날씨 (원본) | 비 오는 날씨 (변환) |
 |------------------|--------------------|
-| ![Clear](results/sample_clear1.jpg) | ![Rainy](results/sample_rainy1.jpg) |
+| ![Clear](imgs/sample_clear1.jpg) | ![Rainy](imgs/sample_rainy1.jpg) |
 
 - 2차 평가(예정) <br>
 
